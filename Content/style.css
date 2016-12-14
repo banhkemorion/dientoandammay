@@ -41,7 +41,9 @@ PRE LOADER
     width: 100%;
     overflow: hidden !important;
 }
-
+td {
+    padding: 10px;
+}
 .loaded {
     width: 60px;
     height: 60px;

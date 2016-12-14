@@ -4,7 +4,7 @@
     <div class="container page-top">
         <div class="row">
             <div class="pull-right shop-add">
-                <a class="btn btn-sm btn-danger" target="_blank" href="update.aspx"><i class="glyphicon glyphicon-plus-sign"> THÊM SẢN PHẨM</i></a>
+                <a class="btn btn-sm btn-danger" target="_blank" href="update.aspx"><i class="glyphicon glyphicon-plus-sign"> THÊM SỬA XÓA SẢN PHẨM</i></a>
             </div>
             <div class="col-md-12">
             <asp:Repeater ID="Repeater1" runat="server" DataSourceID="SqlDataSource3">

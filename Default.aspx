@@ -61,7 +61,7 @@
                 <div class="row">
 					<div class="col-sm-6 col-sm-12 col-xs-12">
 						<div class="portfolio">
-							<img src="/images/computer.png" alt="">
+                            <asp:HyperLink id="computer1" ImageUrl="images/computer.png" Text="" runat="server"/>
 						</div>
 					</div>
 					
@@ -95,7 +95,7 @@
 					
 				<div class="col-sm-4 col-sm-12 col-xs-12">
 					<div class="team">
-						<img src="/images/man1.png" alt="">
+                        <asp:HyperLink id="images1" ImageUrl="images/man1.png" Text="" runat="server"/>
 						<div class="team-info">
 							<h2>Minh Tien PMT</h2>
 							<h5>Phát Triển Sản Phẩm</h5>
@@ -106,7 +106,7 @@
 					
 				<div class="col-sm-4 col-sm-12 col-xs-12">
 					<div class="team">
-						<img src="/images/man2.png" alt="">
+                        <asp:HyperLink id="images2" ImageUrl="images/man2.png" Text="" runat="server"/>
 						<div class="team-info">
 							<h2>Trung Do</h2>
 							<h5>Quản Lý Sản Phẩm</h5>
@@ -117,7 +117,7 @@
 					
 				<div class="col-sm-4 col-sm-12 col-xs-12">
 					<div class="team">
-						<img src="/images/man3.png" alt="">
+                        <asp:HyperLink id="images3" ImageUrl="images/man3.png" Text="" runat="server"/>
 						<div class="team-info">
 							<h2>Quan Vuong</h2>
 							<h5>Chăm Sóc Khách Hàng</h5>

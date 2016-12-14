@@ -2,11 +2,11 @@
 
 <asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent" >
     <div class="container page-top">
-                <asp:DetailsView ID="DetailsView1" runat="server" Height="100px" Width="500px" AutoGenerateRows="False" CellPadding="4" DataKeyNames="ms" DataSourceID="update" ForeColor="#333333" GridLines="None" style="margin-right: 20px" AllowPaging="True">
+                <asp:DetailsView ID="DetailsView1" runat="server" Height="200px" Width="100%" AutoGenerateRows="False" CellPadding="4" DataKeyNames="ms" DataSourceID="update" ForeColor="#333333" GridLines="None" style="margin-right: 20px" AllowPaging="True">
                 <AlternatingRowStyle BackColor="White" />
                 <CommandRowStyle BackColor="#D1DDF1" Font-Bold="True" />
                 <EditRowStyle BackColor="#2461BF" />
-                <FieldHeaderStyle BackColor="#DEE8F5" Font-Bold="True" />
+                <FieldHeaderStyle BackColor="#DEE8F5" Font-Bold="True" Width="25%" />
                 <Fields>
                     <asp:BoundField DataField="ms" HeaderText="ms" ReadOnly="True" SortExpression="ms" />
                     <asp:BoundField DataField="ms_chuyenmuc_sp" HeaderText="ms_chuyenmuc_sp" SortExpression="ms_chuyenmuc_sp" />
@@ -16,7 +16,7 @@
                     <asp:BoundField DataField="mo_ta" HeaderText="mo_ta" SortExpression="mo_ta" />
                     <asp:BoundField DataField="anh" HeaderText="anh" SortExpression="anh" />
                     <asp:BoundField DataField="don_vi" HeaderText="don_vi" SortExpression="don_vi" />
-                    <asp:CommandField ShowDeleteButton="True" ShowEditButton="True" ShowInsertButton="True" />
+                    <asp:CommandField ButtonType="Button" ShowDeleteButton="true" DeleteText="Delete" ShowEditButton="true" EditText="Edit" ShowInsertButton="true" InsertText="Insert" />
                 </Fields>
                 <FooterStyle BackColor="#507CD1" Font-Bold="True" ForeColor="White" />
                 <HeaderStyle BackColor="#507CD1" Font-Bold="True" ForeColor="White" />
