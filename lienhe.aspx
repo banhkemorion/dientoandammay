@@ -12,7 +12,7 @@
             <i class="glyphicon glyphicon-phone-alt"></i> 0966884735<br>
             <i class="glyphicon glyphicon-phone"></i>  0966884735 - Đỗ Quang Trung<br>
                <i class="glyphicon glyphicon-phone"></i>  0966884735 - Phạm Minh Tiến<br>
-               <i class="glyphicon glyphicon-phone"></i>  0966884735 - Vương Hồng Quân<br>
+               <i class="glyphicon glyphicon-phone"></i>  01635251661 - Vương Hồng Quân<br>
             <i class="glyphicon glyphicon-envelope"></i>  lienhe@nhom6.com<br>
             <p style="margin-top:20px;"><span class="fa fa-facebook-square" style="font-size:40px;color:#818181;"></span> <span class="fa fa-google-plus-circle" style="font-size:40px;color:#818181;"></span> <span class="fa fa-tumblr-square" style="font-size:40px;color:#818181;"></span> <span class="fa fa-twitter-square" style="font-size:40px;color:#818181;"></span></p></div>
             </div>
