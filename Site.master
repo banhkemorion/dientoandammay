@@ -62,7 +62,7 @@
                     </button>
 					
 					<div class="brand-bg">
-                    <asp:HyperLink id="hyperlink1" NavigateUrl="Default.aspx" ImageUrl="images/logo2.png" Text="" runat="server"/>
+                    <asp:HyperLink id="hyperlink1" NavigateUrl="Default.aspx" ImageUrl="images/logo2.jpg" width="60px" Text="" runat="server"/>
 					</div>
                 </div>
 
